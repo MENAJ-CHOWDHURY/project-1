@@ -1,0 +1,75 @@
+.all{
+    height: auto;
+    width: 800px;
+    background-color: aqua ;
+    margin: 01%;
+    padding: 01%;
+}
+
+.banner{
+    height:200px;
+    width:800px;
+    background-color: aliceblue;
+    border:1px;
+    border-color:blue;
+    border-radius:25%;
+
+}
+.news{
+    height: 30px;
+    width: 800px;
+    background-color: burlywood;
+    text-emphasis-color:green;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: medium;
+    font-style: italic;
+    padding-top: 10px;
+    
+}:disabled::view-transition;
+.button{
+    height: 30px;
+    width: 800px;
+    background-color: beige;
+    border-radius: 25%;
+}
+
+.two{
+    height:300px;
+    width: 800px;
+    background-color: blueviolet;
+    margin:1px;
+}
+.M{
+    height:300px;
+    width:400px;
+    background-color: aliceblue;
+    float: left;
+    border: px;
+    border-width: px;
+    
+}
+
+.U{
+    height: 300px;
+    width: 400px;
+    float: right;
+}
+.p{
+    float:left;
+    color: red;
+    height: 200px;
+    width: 400px;
+    background-color:chocolate;
+}
+
+.H{
+    float: right;
+    color: green;
+    height:200px;
+    width: 400px;
+    background-color:blue;
+}
+.1{
+    radialGradient
+
+}
